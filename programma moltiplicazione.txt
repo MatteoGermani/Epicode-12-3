@@ -12,7 +12,7 @@ int main () {
 	printf ("Inserisci il secondo numero:\n");
 	scanf ("%d", &secondo_numero);
 
-	moltiplicazione = primo_numero * secondo_numero
+	moltiplicazione = primo_numero * secondo_numero;
 
 	printf ("Il prodotto dei due numeri inseriti è: %d\n", moltiplicazione);
 
